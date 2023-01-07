@@ -2,6 +2,22 @@
 In the project I have created a Tableau story to visualize the data and get the key insights.
 This project created both in Excel and Tableau
 
+### Insights
+1. Consumers made the highest sales of $11,61,402 in the yea$ between 2018-2021
+Home Office made the lowest sales of $4,29,654.
+2. Standard Class ship-mode made the highest sales of $13,58,216.
+Same Day Class was the lowest. $ 1,28,364
+3. Technology made the highest sales of $8,36,155 
+Office supplies made the lowest sales of $ 7,19,047 
+4. Highest sales and Profit are in Western region of $ 7,25,458 and $1,08,419
+Lowest sales are in Southern Region and Lowest Profit is in Central region.
+5. In the Western region maximum number of quantity was sold. 12266
+Maximum discount was given in central region of $558.
+6. Total number of quantity in all segments is 37,873.
+Total Discount was $1561
+
+
+
 ## Excel Dashboard
 ![image](https://user-images.githubusercontent.com/71623089/211159704-4a6a7117-4478-4f0d-9c17-a9c65b56d13c.png)
 
